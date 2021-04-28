@@ -38,3 +38,8 @@
 	url = http://studyforrest.ds.inm7.de/da1/5d84c-9c8b-11e9-a3fb-f0d5bf7b5561
 	datalad-id = da15d84c-9c8b-11e9-a3fb-f0d5bf7b5561
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#da15d84c-9c8b-11e9-a3fb-f0d5bf7b5561"
+[submodule "artifact/7T_musicperception"]
+	path = artifact/7T_musicperception
+	url = http://studyforrest.ds.inm7.de/c08/af312-e05b-43b3-b499-db0d2ad46bf6
+	datalad-id = c08af312-e05b-43b3-b499-db0d2ad46bf6
+	datalad-url = "ria+http://studyforrest.ds.inm7.de#c08af312-e05b-43b3-b499-db0d2ad46bf6"
