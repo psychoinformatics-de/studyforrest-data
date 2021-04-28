@@ -13,3 +13,8 @@
 	url = http://studyforrest.ds.inm7.de/607/5c0fa-ab72-4bab-9888-3b597f0e63b1
 	datalad-id = 6075c0fa-ab72-4bab-9888-3b597f0e63b1
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#6075c0fa-ab72-4bab-9888-3b597f0e63b1"
+[submodule "derivative/aggregate_fmri_timeseries"]
+	path = derivative/aggregate_fmri_timeseries
+	url = http://studyforrest.ds.inm7.de/7fc/d8812-d0fe-11e7-8db2-a0369f7c647e
+	datalad-id = 7fcd8812-d0fe-11e7-8db2-a0369f7c647e
+	datalad-url = "ria+http://studyforrest.ds.inm7.de#7fcd8812-d0fe-11e7-8db2-a0369f7c647e"
