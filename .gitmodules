@@ -8,3 +8,8 @@
 	url = http://studyforrest.ds.inm7.de/d5d/d3da0-a631-4c0c-a4a9-de55dfc4620f
 	datalad-id = d5dd3da0-a631-4c0c-a4a9-de55dfc4620f
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#d5dd3da0-a631-4c0c-a4a9-de55dfc4620f"
+[submodule "artifact/3T_visuallocalizer"]
+	path = artifact/3T_visuallocalizer
+	url = http://studyforrest.ds.inm7.de/607/5c0fa-ab72-4bab-9888-3b597f0e63b1
+	datalad-id = 6075c0fa-ab72-4bab-9888-3b597f0e63b1
+	datalad-url = "ria+http://studyforrest.ds.inm7.de#6075c0fa-ab72-4bab-9888-3b597f0e63b1"
