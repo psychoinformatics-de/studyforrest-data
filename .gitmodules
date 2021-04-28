@@ -33,3 +33,8 @@
 	url = http://studyforrest.ds.inm7.de/126/cd950-377c-4600-a921-045cf408bd9f
 	datalad-id = 126cd950-377c-4600-a921-045cf408bd9f
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#126cd950-377c-4600-a921-045cf408bd9f"
+[submodule "artifact/media"]
+	path = artifact/media
+	url = http://studyforrest.ds.inm7.de/da1/5d84c-9c8b-11e9-a3fb-f0d5bf7b5561
+	datalad-id = da15d84c-9c8b-11e9-a3fb-f0d5bf7b5561
+	datalad-url = "ria+http://studyforrest.ds.inm7.de#da15d84c-9c8b-11e9-a3fb-f0d5bf7b5561"
