@@ -28,3 +28,8 @@
 	url = http://studyforrest.ds.inm7.de/ad9/b6c66-4413-4b4f-b6da-b7f25d0d6397
 	datalad-id = ad9b6c66-4413-4b4f-b6da-b7f25d0d6397
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#ad9b6c66-4413-4b4f-b6da-b7f25d0d6397"
+[submodule "artifact/movie_eyetracking"]
+	path = artifact/movie_eyetracking
+	url = http://studyforrest.ds.inm7.de/126/cd950-377c-4600-a921-045cf408bd9f
+	datalad-id = 126cd950-377c-4600-a921-045cf408bd9f
+	datalad-url = "ria+http://studyforrest.ds.inm7.de#126cd950-377c-4600-a921-045cf408bd9f"
