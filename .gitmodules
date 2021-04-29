@@ -73,3 +73,8 @@
 	url = http://studyforrest.ds.inm7.de/0f6/6b1ba-e9a9-46fd-b9d9-2e64fe94d307
 	datalad-id = 0f66b1ba-e9a9-46fd-b9d9-2e64fe94d307
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#0f66b1ba-e9a9-46fd-b9d9-2e64fe94d307"
+[submodule "original/phase2"]
+	path = original/phase2
+	url = http://studyforrest.ds.inm7.de/5ea/ff716-54eb-11e8-803d-a0369f7c647e
+	datalad-id = 5eaff716-54eb-11e8-803d-a0369f7c647e
+	datalad-url = "ria+http://studyforrest.ds.inm7.de#5eaff716-54eb-11e8-803d-a0369f7c647e"
