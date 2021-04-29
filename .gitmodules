@@ -63,3 +63,8 @@
 	url = http://studyforrest.ds.inm7.de/4c5/36c4a-ec61-11e6-9440-00b56d060aa7
 	datalad-id = 4c536c4a-ec61-11e6-9440-00b56d060aa7
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#4c536c4a-ec61-11e6-9440-00b56d060aa7"
+[submodule "derivative/cortical_surfaces_freesurfer"]
+	path = derivative/cortical_surfaces_freesurfer
+	url = http://studyforrest.ds.inm7.de/330/4e775-5f5f-435a-b68e-d98c9f5fb72a
+	datalad-id = 3304e775-5f5f-435a-b68e-d98c9f5fb72a
+	datalad-url = "ria+http://studyforrest.ds.inm7.de#3304e775-5f5f-435a-b68e-d98c9f5fb72a"
