@@ -53,3 +53,8 @@
 	url = http://studyforrest.ds.inm7.de/5b1/081d6-84d7-11e8-b00a-a0369fb55db0
 	datalad-id = 5b1081d6-84d7-11e8-b00a-a0369fb55db0
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#5b1081d6-84d7-11e8-b00a-a0369fb55db0"
+[submodule "stimulus/curated_annotations"]
+	path = stimulus/curated_annotations
+	url = http://studyforrest.ds.inm7.de/45b/9ab26-07fc-11e8-8c71-f0d5bf7b5561
+	datalad-id = 45b9ab26-07fc-11e8-8c71-f0d5bf7b5561
+	datalad-url = "ria+http://studyforrest.ds.inm7.de#45b9ab26-07fc-11e8-8c71-f0d5bf7b5561"
