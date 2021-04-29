@@ -88,3 +88,8 @@
 	url = http://studyforrest.ds.inm7.de/188/2e2e6-fbbf-4ade-a65f-3a1615235f51
 	datalad-id = 1882e2e6-fbbf-4ade-a65f-3a1615235f51
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#1882e2e6-fbbf-4ade-a65f-3a1615235f51"
+[submodule "derivative/image_space_transformations"]
+	path = derivative/image_space_transformations
+	url = http://studyforrest.ds.inm7.de/ceb/007ac-ef05-4392-98d2-35c02a774a21
+	datalad-id = ceb007ac-ef05-4392-98d2-35c02a774a21
+	datalad-url = "ria+http://studyforrest.ds.inm7.de#ceb007ac-ef05-4392-98d2-35c02a774a21"
