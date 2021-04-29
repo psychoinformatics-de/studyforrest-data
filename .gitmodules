@@ -15,12 +15,12 @@
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#6075c0fa-ab72-4bab-9888-3b597f0e63b1"
 [submodule "derivative/aggregate_fmri_timeseries"]
 	path = derivative/aggregate_fmri_timeseries
-	url = http://studyforrest.ds.inm7.de/7fc/d8812-d0fe-11e7-8db2-a0369f7c647e
+	url = https://github.com/psychoinformatics-de/studyforrest-data-aggregate.git
 	datalad-id = 7fcd8812-d0fe-11e7-8db2-a0369f7c647e
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#7fcd8812-d0fe-11e7-8db2-a0369f7c647e"
 [submodule "derivative/aligned_mri"]
 	path = derivative/aligned_mri
-	url = http://studyforrest.ds.inm7.de/c8e/c2919-493b-4af5-9271-cbe9ebd08c43
+	url = https://github.com/psychoinformatics-de/studyforrest-data-aligned.git
 	datalad-id = c8ec2919-493b-4af5-9271-cbe9ebd08c43
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#c8ec2919-493b-4af5-9271-cbe9ebd08c43"
 [submodule "artifact/3T_structural_mri"]
@@ -45,17 +45,17 @@
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#c08af312-e05b-43b3-b499-db0d2ad46bf6"
 [submodule "original/7T_multiresolution_fmri"]
 	path = original/7T_multiresolution_fmri
-	url = http://studyforrest.ds.inm7.de/3a8/648b3-7df8-413f-8efb-4d39040ac174
+	url = https://github.com/psychoinformatics-de/studyforrest-data-multires7t.git
 	datalad-id = 3a8648b3-7df8-413f-8efb-4d39040ac174
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#3a8648b3-7df8-413f-8efb-4d39040ac174"
 [submodule "original/3T_multiresolution_fmri"]
 	path = original/3T_multiresolution_fmri
-	url = http://studyforrest.ds.inm7.de/5b1/081d6-84d7-11e8-b00a-a0369fb55db0
+	url = https://github.com/psychoinformatics-de/studyforrest-data-multires3t.git
 	datalad-id = 5b1081d6-84d7-11e8-b00a-a0369fb55db0
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#5b1081d6-84d7-11e8-b00a-a0369fb55db0"
 [submodule "stimulus/curated_annotations"]
 	path = stimulus/curated_annotations
-	url = http://studyforrest.ds.inm7.de/45b/9ab26-07fc-11e8-8c71-f0d5bf7b5561
+	url = https://github.com/psychoinformatics-de/studyforrest-data-annotations.git
 	datalad-id = 45b9ab26-07fc-11e8-8c71-f0d5bf7b5561
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#45b9ab26-07fc-11e8-8c71-f0d5bf7b5561"
 [submodule "stimulus/computational_annotations"]
@@ -65,36 +65,36 @@
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#4c536c4a-ec61-11e6-9440-00b56d060aa7"
 [submodule "derivative/cortical_surfaces_freesurfer"]
 	path = derivative/cortical_surfaces_freesurfer
-	url = http://studyforrest.ds.inm7.de/330/4e775-5f5f-435a-b68e-d98c9f5fb72a
+	url = https://github.com/psychoinformatics-de/studyforrest-data-freesurfer.git
 	datalad-id = 3304e775-5f5f-435a-b68e-d98c9f5fb72a
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#3304e775-5f5f-435a-b68e-d98c9f5fb72a"
 [submodule "code/conversion_qa"]
 	path = code/conversion_qa
-	url = http://studyforrest.ds.inm7.de/0f6/6b1ba-e9a9-46fd-b9d9-2e64fe94d307
+	url = https://github.com/mih/gumpdata.git
 	datalad-id = 0f66b1ba-e9a9-46fd-b9d9-2e64fe94d307
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#0f66b1ba-e9a9-46fd-b9d9-2e64fe94d307"
 [submodule "original/phase2"]
 	path = original/phase2
-	url = http://studyforrest.ds.inm7.de/5ea/ff716-54eb-11e8-803d-a0369f7c647e
+	url = https://github.com/psychoinformatics-de/studyforrest-data-phase2.git
 	datalad-id = 5eaff716-54eb-11e8-803d-a0369f7c647e
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#5eaff716-54eb-11e8-803d-a0369f7c647e"
 [submodule "derivative/retinotopic_maps"]
 	path = derivative/retinotopic_maps
-	url = http://studyforrest.ds.inm7.de/2d0/5f277-94b0-470b-8e11-4e56691d5b89
+	url = https://github.com/psychoinformatics-de/studyforrest-data-retinotopy.git
 	datalad-id = 2d05f277-94b0-470b-8e11-4e56691d5b89
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#2d05f277-94b0-470b-8e11-4e56691d5b89"
 [submodule "original/3T_structural_mri"]
 	path = original/3T_structural_mri
-	url = http://studyforrest.ds.inm7.de/188/2e2e6-fbbf-4ade-a65f-3a1615235f51
+	url = https://github.com/psychoinformatics-de/studyforrest-data-structural.git
 	datalad-id = 1882e2e6-fbbf-4ade-a65f-3a1615235f51
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#1882e2e6-fbbf-4ade-a65f-3a1615235f51"
 [submodule "derivative/image_space_transformations"]
 	path = derivative/image_space_transformations
-	url = http://studyforrest.ds.inm7.de/ceb/007ac-ef05-4392-98d2-35c02a774a21
+	url = https://github.com/psychoinformatics-de/studyforrest-data-templatetransforms.git
 	datalad-id = ceb007ac-ef05-4392-98d2-35c02a774a21
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#ceb007ac-ef05-4392-98d2-35c02a774a21"
 [submodule "derivative/visual_areas"]
 	path = derivative/visual_areas
-	url = http://studyforrest.ds.inm7.de/92e/65958-4a5a-4c34-a4f4-ee070f7a123b
+	url = https://github.com/psychoinformatics-de/studyforrest-data-visualrois.git
 	datalad-id = 92e65958-4a5a-4c34-a4f4-ee070f7a123b
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#92e65958-4a5a-4c34-a4f4-ee070f7a123b"
