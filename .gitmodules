@@ -48,3 +48,8 @@
 	url = http://studyforrest.ds.inm7.de/3a8/648b3-7df8-413f-8efb-4d39040ac174
 	datalad-id = 3a8648b3-7df8-413f-8efb-4d39040ac174
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#3a8648b3-7df8-413f-8efb-4d39040ac174"
+[submodule "original/3T_multiresolution_fmri"]
+	path = original/3T_multiresolution_fmri
+	url = http://studyforrest.ds.inm7.de/5b1/081d6-84d7-11e8-b00a-a0369fb55db0
+	datalad-id = 5b1081d6-84d7-11e8-b00a-a0369fb55db0
+	datalad-url = "ria+http://studyforrest.ds.inm7.de#5b1081d6-84d7-11e8-b00a-a0369fb55db0"
