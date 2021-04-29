@@ -78,3 +78,8 @@
 	url = http://studyforrest.ds.inm7.de/5ea/ff716-54eb-11e8-803d-a0369f7c647e
 	datalad-id = 5eaff716-54eb-11e8-803d-a0369f7c647e
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#5eaff716-54eb-11e8-803d-a0369f7c647e"
+[submodule "derivative/retinotopic_maps"]
+	path = derivative/retinotopic_maps
+	url = http://studyforrest.ds.inm7.de/2d0/5f277-94b0-470b-8e11-4e56691d5b89
+	datalad-id = 2d05f277-94b0-470b-8e11-4e56691d5b89
+	datalad-url = "ria+http://studyforrest.ds.inm7.de#2d05f277-94b0-470b-8e11-4e56691d5b89"
