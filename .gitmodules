@@ -3,16 +3,19 @@
 	url = http://studyforrest.ds.inm7.de/d47/59300-5563-467d-be5f-e5b164fb3060
 	datalad-id = d4759300-5563-467d-be5f-e5b164fb3060
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#d4759300-5563-467d-be5f-e5b164fb3060"
+	datalad-recursiveinstall = skip
 [submodule "artifact/3T_movie_eyetracking"]
 	path = artifact/3T_movie_eyetracking
 	url = http://studyforrest.ds.inm7.de/d5d/d3da0-a631-4c0c-a4a9-de55dfc4620f
 	datalad-id = d5dd3da0-a631-4c0c-a4a9-de55dfc4620f
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#d5dd3da0-a631-4c0c-a4a9-de55dfc4620f"
+	datalad-recursiveinstall = skip
 [submodule "artifact/3T_visuallocalizer"]
 	path = artifact/3T_visuallocalizer
 	url = http://studyforrest.ds.inm7.de/607/5c0fa-ab72-4bab-9888-3b597f0e63b1
 	datalad-id = 6075c0fa-ab72-4bab-9888-3b597f0e63b1
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#6075c0fa-ab72-4bab-9888-3b597f0e63b1"
+	datalad-recursiveinstall = skip
 [submodule "derivative/aggregate_fmri_timeseries"]
 	path = derivative/aggregate_fmri_timeseries
 	url = https://github.com/psychoinformatics-de/studyforrest-data-aggregate.git
@@ -28,21 +31,25 @@
 	url = http://studyforrest.ds.inm7.de/ad9/b6c66-4413-4b4f-b6da-b7f25d0d6397
 	datalad-id = ad9b6c66-4413-4b4f-b6da-b7f25d0d6397
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#ad9b6c66-4413-4b4f-b6da-b7f25d0d6397"
+	datalad-recursiveinstall = skip
 [submodule "artifact/movie_eyetracking"]
 	path = artifact/movie_eyetracking
 	url = http://studyforrest.ds.inm7.de/126/cd950-377c-4600-a921-045cf408bd9f
 	datalad-id = 126cd950-377c-4600-a921-045cf408bd9f
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#126cd950-377c-4600-a921-045cf408bd9f"
+	datalad-recursiveinstall = skip
 [submodule "artifact/media"]
 	path = artifact/media
 	url = http://studyforrest.ds.inm7.de/da1/5d84c-9c8b-11e9-a3fb-f0d5bf7b5561
 	datalad-id = da15d84c-9c8b-11e9-a3fb-f0d5bf7b5561
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#da15d84c-9c8b-11e9-a3fb-f0d5bf7b5561"
+	datalad-recursiveinstall = skip
 [submodule "artifact/7T_musicperception"]
 	path = artifact/7T_musicperception
 	url = http://studyforrest.ds.inm7.de/c08/af312-e05b-43b3-b499-db0d2ad46bf6
 	datalad-id = c08af312-e05b-43b3-b499-db0d2ad46bf6
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#c08af312-e05b-43b3-b499-db0d2ad46bf6"
+	datalad-recursiveinstall = skip
 [submodule "original/7T_multiresolution_fmri"]
 	path = original/7T_multiresolution_fmri
 	url = https://github.com/psychoinformatics-de/studyforrest-data-multires7t.git
@@ -63,6 +70,7 @@
 	url = http://studyforrest.ds.inm7.de/4c5/36c4a-ec61-11e6-9440-00b56d060aa7
 	datalad-id = 4c536c4a-ec61-11e6-9440-00b56d060aa7
 	datalad-url = "ria+http://studyforrest.ds.inm7.de#4c536c4a-ec61-11e6-9440-00b56d060aa7"
+	datalad-recursiveinstall = skip
 [submodule "derivative/cortical_surfaces_freesurfer"]
 	path = derivative/cortical_surfaces_freesurfer
 	url = https://github.com/psychoinformatics-de/studyforrest-data-freesurfer.git
