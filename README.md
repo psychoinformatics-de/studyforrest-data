@@ -9,8 +9,27 @@ For further information about the project visit: http://studyforrest.org
 
 ## Content
 
-``artifact/``
+- ``artifact/``
+
   Pristine data artifacts for all acquisitions. Not publicly accessible.
+
+- ``code/``
+
+  Code for data structuring, tests, conversion, and analysis.
+
+- ``derivative/``
+
+  Preprocessed data, and analysis results.
+
+- ``original/``
+
+  Raw, or minimally processed data.
+
+- ``stimulus/``
+
+  Annotations of the Forrest Gump movie stimulus and its audio description,
+  from human observers and computational algorithms.
+
 
 ## How to obtain the data files
 
